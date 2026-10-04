@@ -1,0 +1,5 @@
+# Keeps Streamlit's accent colour (radio dots, chips, focus rings) on the app's ink palette.
+# Streamlit reads this when you run it from the project folder.
+[theme]
+base = "light"
+primaryColor = "#1B2340"

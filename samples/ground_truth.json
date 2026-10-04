@@ -1,0 +1,37 @@
+{
+  "invoice_clean.png": {
+    "invoice_number": "INV-2026-0042",
+    "vendor_name": "Sunrise Stationery Pvt Ltd",
+    "gstin": "19ABCDE1234F1Z5",
+    "invoice_date": "2026-09-15",
+    "total_amount": "18880.00"
+  },
+  "invoice_scanned.jpg": {
+    "invoice_number": "KHT/26-27/0318",
+    "vendor_name": "Kaveri Hardware & Tools",
+    "gstin": "33AAAPK4321L1Z8",
+    "invoice_date": "2026-10-03",
+    "total_amount": "23600.00"
+  },
+  "invoice_native.pdf": {
+    "invoice_number": "LPD/2026/00917",
+    "vendor_name": "Lotus Pharma Distributors LLP",
+    "gstin": "27AACCL5566M1Z2",
+    "invoice_date": "2026-09-22",
+    "total_amount": "43680.00"
+  },
+  "invoice_export.csv": {
+    "invoice_number": "GO-INV-5521",
+    "vendor_name": "Greenfield Organics Pvt Ltd",
+    "gstin": "07AAECG2468H1ZK",
+    "invoice_date": "2026-09-30",
+    "total_amount": "13125.00"
+  },
+  "retail_bill.png": {
+    "invoice_number": "10458",
+    "vendor_name": "Shree Balaji Sweets & Snacks",
+    "gstin": null,
+    "invoice_date": "2026-10-03",
+    "total_amount": "472.50"
+  }
+}

@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+anthropic>=1.11.0
+langfuse>=4.0.0
+python-dotenv>=1.0.0
+streamlit>=1.40
+requests>=2.31
+pillow>=10.1

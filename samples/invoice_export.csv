@@ -1,0 +1,7 @@
+invoice_no,invoice_date,seller,seller_gstin,buyer,buyer_gstin,description,qty,rate,amount
+GO-INV-5521,30/09/2026,Greenfield Organics Pvt Ltd,07AAECG2468H1ZK,Daily Basket Retail,07FFFGH7788J1Z3,Cold-pressed mustard oil 5L,50,100.00,5000.00
+GO-INV-5521,30/09/2026,Greenfield Organics Pvt Ltd,07AAECG2468H1ZK,Daily Basket Retail,07FFFGH7788J1Z3,Organic jaggery 1kg,300,25.00,7500.00
+GO-INV-5521,30/09/2026,Greenfield Organics Pvt Ltd,07AAECG2468H1ZK,Daily Basket Retail,07FFFGH7788J1Z3,Subtotal,,,12500.00
+GO-INV-5521,30/09/2026,Greenfield Organics Pvt Ltd,07AAECG2468H1ZK,Daily Basket Retail,07FFFGH7788J1Z3,CGST 2.5%,,,312.50
+GO-INV-5521,30/09/2026,Greenfield Organics Pvt Ltd,07AAECG2468H1ZK,Daily Basket Retail,07FFFGH7788J1Z3,SGST 2.5%,,,312.50
+GO-INV-5521,30/09/2026,Greenfield Organics Pvt Ltd,07AAECG2468H1ZK,Daily Basket Retail,07FFFGH7788J1Z3,INVOICE TOTAL,,,13125.00
